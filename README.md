@@ -8,7 +8,7 @@ research 2557
 1. [Sample Draw text into image](http://www.hetemeel.com/einsteinform.php)
 1. [Add text to image](http://www.phpforkids.com/php/php-gd-library-adding-text-writing.php)
 1. [How to create a canvas image in php?](https://www.bayt.com/en/specialties/q/94361/how-to-create-a-canvas-image-in-php/)
-1. [
+1. 
 
 ##### JavaScript
 1. [Pixel Manipulation -- Easy](https://www.phpied.com/pixel-manipulation-in-canvas/)
