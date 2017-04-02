@@ -1,7 +1,7 @@
 # research2557
 research 2557
 #####PHP
-1. [Write text to the image using TrueType fonts](http://php.net/manual/en/function.imagettftext.php)
+1. [Write text to the image using TrueType fonts](http://php.net/manual/en/function.imagettftext.php) and the [sample](http://stackoverflow.com/questions/1097583/creating-image-from-text-in-php-how-can-i-make-multiline)
 1. 
 
 ##### JavaScript
