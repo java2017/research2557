@@ -12,6 +12,7 @@ research 2557
 
 ##### JavaScript
 1. [Pixel Manipulation -- Easy](https://www.phpied.com/pixel-manipulation-in-canvas/)
+1. [Canvas HTML5-A Gentle Introduction](https://simonsarris.com/making-html5-canvas-useful/)
 1. [Fabric.js is a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/) - Fabric provides interactive object model on top of canvas element, Fabric also has SVG-to-canvas (and canvas-to-SVG) parser
 1. [Fabric.js Text](http://fabricjs.com/fabric-intro-part-2#text)
 1. [How to insert text into a textarea where the cursor is](http://web.archive.org/web/20110102112946/http://www.scottklarr.com/topic/425/how-to-insert-text-into-a-textarea-where-the-cursor-is/)
